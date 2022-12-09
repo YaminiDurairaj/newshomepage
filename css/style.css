@@ -261,7 +261,7 @@ hr {
 
   .menu-icon{
     display: inline;
-    margin:1rem 22.5rem;
+    margin:1rem 14rem;
     cursor: pointer;
     }
 
@@ -304,9 +304,9 @@ hr {
    }
    .section-2-content{
    margin-left: 2rem;
-   margin-top:-5rem;
-    width:50%;
-   height: 122%;
+   margin-top:4rem;
+    width:80%;
+   height: 100%;
    }
    .section-3 {
     display: inline-block ;
@@ -326,7 +326,7 @@ hr {
    }
    .footer{
     margin-top:1.5rem;
-    margin-left: 1.7rem;
+    margin-left: 4rem;
     margin-right: 1rem;
    }
 
